@@ -5,6 +5,7 @@ print("I like typing this.")
 print("This is fun.")
 
 # math skills demo
+
 # prints the following sentence
 print("I will not count my chickens", 2)
 # used this code to calculate the number of hens
@@ -17,7 +18,8 @@ print("Now I will count the eggs", 7)
 print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 # used this to determine whether the statement was true or false
 print(3 + 2 < 5 - 7)
-
+print("Now I will count the number of roosters and eggs")
+print(50.0 - 25.0 + 5.0 - 10.0)
 
 
 
